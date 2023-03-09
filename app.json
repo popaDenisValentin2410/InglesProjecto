@@ -24,10 +24,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.popadenisvalentin2410.InglesProjecto"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2e34aef1-f32d-45e5-b690-e795a81acda3"
+      }
+    },
+    "owner": "popadenisvalentin2410"
   }
 }
